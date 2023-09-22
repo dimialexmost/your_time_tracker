@@ -35,10 +35,11 @@ Furthermore, it allows you to save your statistics and view them in a convenient
     Statistics Viewer: A text area to view the stats you've logged in the past.
 
 ### Dependencies
-<li>
 Python 3 
-     tkinter 
-     tkcalendar
+
+tkinter 
+
+tkcalendar
     
 ### How to Use
 
@@ -52,9 +53,9 @@ Python 3
 To install the application, download the exe file from the link
 [https://github.com/dimialexmost/your_time_tracker/tree/main/dist]
 
-    When you launch an application, the antivirus may warn you about the danger. 
+***When you launch an application, the antivirus may warn you about the danger. 
     This happens because the your_time_tracker has the function of launching another program 
-    from its interface.When you launch an application, the antivirus may warn you about the danger. 
+    from its interface.When you launch an application, the antivirus may warn you about the danger.*** 
   
   ###  Tips:   
   The program tracks the time spent working with only one controlled program.
