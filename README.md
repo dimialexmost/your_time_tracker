@@ -27,7 +27,7 @@ Furthermore, it allows you to save your statistics and view them in a convenient
     <li>
     Saving and loading statistics: save statistics in json format in the desired directory. 
     
-***Statistics can be saved in cloud storage if you work with the same tasks on different computers. 
+*** Statistics can be saved in cloud storage if you work with the same tasks on different computers. 
     This way you can track the time you work in the same program, but on different computers.
     The statistics will be loaded the next time you launch the application. ***
   <li>
