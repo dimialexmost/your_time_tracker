@@ -30,6 +30,7 @@ Furthermore, it allows you to save your statistics and view them in a convenient
 ***Statistics can be saved in cloud storage if you work with the same tasks on different computers. 
     This way you can track the time you work in the same program, but on different computers.
     The statistics will be loaded the next time you launch the application.***
+    
   <li>
     Statistics Viewer: A text area to view the stats you've logged in the past.
 
