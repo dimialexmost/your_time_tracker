@@ -17,7 +17,7 @@ Furthermore, it allows you to save your statistics and view them in a convenient
   <li>  
      Total time for the last month (last month): ...hr. min.
 
-## Features
+### Features
 <li>
     Date Selection: Select the date you wish to log.
     Time Input: Use spinboxes to input your start and end times.
@@ -33,8 +33,7 @@ Furthermore, it allows you to save your statistics and view them in a convenient
   <li>
     Statistics Viewer: A text area to view the stats you've logged in the past.
 
-## Dependencies
-<li>
+### Dependencies
   
     Python 3
     tkinter
@@ -55,7 +54,8 @@ To install the application, download the exe file from the link
     When you launch an application, the antivirus may warn you about the danger. 
     This happens because the your_time_tracker has the function of launching another program 
     from its interface.When you launch an application, the antivirus may warn you about the danger. 
-    
+  
+  ###  Tips:   
   The program tracks the time spent working with only one controlled program.
   If you need to use the your_time_tracker with several programs,
       create a separate directory for each monitored program,
