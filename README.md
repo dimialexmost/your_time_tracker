@@ -36,9 +36,9 @@ Furthermore, it allows you to save your statistics and view them in a convenient
 
 ### Dependencies
 <li>
-    Python 3
-    tkinter
-    tkcalendar
+Python 3 
+     tkinter 
+     tkcalendar
     
 ### How to Use
 
