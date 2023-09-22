@@ -53,7 +53,7 @@ tkcalendar
 To install the application, download the exe file from the link
 [https://github.com/dimialexmost/your_time_tracker/tree/main/dist]
 
-***When you launch an application, the antivirus may warn you about the danger. 
+***When you launch an application, the antivirus may warn you about the threat. 
     This happens because the your_time_tracker has the function of launching another program 
     from its interface.When you launch an application, the antivirus may warn you about the danger.*** 
   
