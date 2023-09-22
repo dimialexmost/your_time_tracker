@@ -63,3 +63,7 @@ To install the application, download the exe file from the link
       create a separate directory for each monitored program,
       as well as a separate directory for saving the statistics file.
       You can also change the name of the exe file for another program, for example VSC_time_tracker.exe
+
+
+###  GUI Preview
+![ytt_scr](https://github.com/dimialexmost/your_time_tracker/assets/96769947/133d5f16-e41f-43fa-90c4-04c7519eede6)
