@@ -51,7 +51,8 @@ tkcalendar
 
 ###  Installation: 
 To install the application, download the exe file from the link
-[https://github.com/dimialexmost/your_time_tracker/tree/main/dist]
+
+[https://github.com/dimialexmost/your_time_tracker/releases/download/time-tracker-v1.0.0/time_tracker.exe]
 
 ***When you launch an application, the antivirus may warn you about the threat. 
     This happens because the your_time_tracker has the function of launching another program 
