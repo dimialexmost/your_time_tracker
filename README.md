@@ -60,6 +60,13 @@ To install the application, download the exe file from the link
   
   ###  Tips:   
   The program tracks the time spent working with only one controlled program.
+The best part is, there's no need for installation – it runs as an executable file.
+1. Create a folder for your project.
+2. Place the executable file of the program there.
+3. You can rename the file, for example, to IDEA_time_tracker.exe.
+4. You can also create separate folders for different projects.
+
+Folders are essential because when you first launch the program, it generates several files that store the addresses for launching the monitored programs and statistics.
   If you need to use the your_time_tracker with several programs,
       create a separate directory for each monitored program,
       as well as a separate directory for saving the statistics file.
